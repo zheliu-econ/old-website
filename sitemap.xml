@@ -21,28 +21,25 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/rachel-heath/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/working-paper-1/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/working-paper-2/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/zhe-liu/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+    <loc>/author/with-rachel-heath/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
@@ -91,5 +88,7 @@
   </url><url>
     <loc>/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>/author/zhe-liu/</loc>
   </url>
 </urlset>
